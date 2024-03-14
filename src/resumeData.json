@@ -1,0 +1,77 @@
+{
+    "profile": {
+      "name": "Pham Van Thanh",
+      "title": "Full-Stack Developer",
+      "phone": "+84 866041225",
+      "email": "thanhphamlq@gmail.com",
+      "address": "Hoai Nhon, Binh Dinh"
+    },
+    "education": [
+      {
+        "year": "2019",
+        "degree": "Higher Secondary Certificate",
+        "institution": "Collectorate School & College"
+      },
+      {
+        "year": "2017",
+        "degree": "Secondary School Certificate",
+        "institution": "Kishoregonj M.L Model High School"
+      },
+      {
+        "year": "2015",
+        "degree": "Junior School Certificate",
+        "institution": "Uttor Durakuti High School"
+      }
+    ],
+    "expertise": [
+      "UI/UX",
+      "Visual Design",
+      "Wireframes",
+      "Storyboards",
+      "User Flows"
+    ],
+    "languages": [
+      { "name": "English", "proficiency": 90 },
+      { "name": "Bangla", "proficiency": 96 },
+      { "name": "Hindi", "proficiency": 40 }
+    ],
+    "aboutMe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam laboriosam aspernatur minima voluptatum? Hic quod dolore harum doloremque culpa ullam velit molestiae consequatur deserunt repellendus nam temporibus error provident earum corrupti est voluptatem ut iusto, voluptatum, ipsam voluptatibus perspiciatis accusantium!",
+    "experiences": [
+      {
+        "year": "2019-2022",
+        "company": "Company name",
+        "location": "123 Anywhere, City Name",
+        "position": "Job Position Here",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit..."
+      },
+      {
+        "year": "2017-2019",
+        "company": "Company name",
+        "location": "123 Anywhere, City Name",
+        "position": "Job Position Here",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit..."
+      },
+      {
+        "year": "2015-2017",
+        "company": "Company name",
+        "location": "123 Anywhere, City Name",
+        "position": "Job Position Here",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit..."
+      }
+    ],
+    "references": [
+      {
+        "name": "Name Surname",
+        "position": "Job Position, Company Name",
+        "phone": "123-456-789",
+        "email": "hello@companyname.com"
+      },
+      {
+        "name": "Name Surname",
+        "position": "Job Position, Company Name",
+        "phone": "123-456-789",
+        "email": "hello@companyname.com"
+      }
+    ]
+  }
+  
