@@ -1,77 +1,83 @@
 {
-    "profile": {
-      "name": "Pham Van Thanh",
-      "title": "Full-Stack Developer",
-      "phone": "+84 866041225",
-      "email": "thanhphamlq@gmail.com",
-      "address": "Hoai Nhon, Binh Dinh"
+  "profile": {
+    "name": "Võ Thương Trường Nhơn",
+    "title": "Software Developer",
+    "phone": "+84 xxx-xxx-xxx",
+    "email": "vothuongtruongnhon2002@gmail.com",
+    "address": "Ho Chi Minh City, Vietnam"
+  },
+  "education": {
+    "year": "2020 - 2024",
+    "degree": "Software Engineering",
+    "institution": "Ho Chi Minh City University of Technology - HUTECH"
+  },
+  "expertise": [
+    "C#",
+    "SQL Server, PostgreSQL, MongoDB",
+    "JavaScript, ReactJS",
+    "AWS"
+  ],
+  "languages": { "name": "English", "proficiency": 90 },
+  "aboutMe": "I love making cool apps for myself and others. I m also a big fan of football, especially Manchester United, and I enjoy watching anime like One Piece. I m a creative person who enjoys both tech and fun hobbies.",
+  "experiences": [
+    {
+      "year": "August 2023 - Now",
+      "company": "FPT Software ",
+      "location": "Ho Chi Minh",
+      "position": "Software developer",
+      "description": [
+        "- Developed a logistics system featuring a specialized quoting app for a US client. Collaborated with customers and analysts to plan and implement new features.",
+        "- Built a microservices architecture using C#, .NET Core, PostgreSQL, DynamoDB, SNS, SQS, GraphQL, Hangfire, Splunk, and New Relic. Followed Gitflow for code management and hosted the system on AWS.",
+        "- Implemented Agile methodology and utilized Rally for effective project management."
+      ]
     },
-    "education": [
-      {
-        "year": "2019",
-        "degree": "Higher Secondary Certificate",
-        "institution": "Collectorate School & College"
-      },
-      {
-        "year": "2017",
-        "degree": "Secondary School Certificate",
-        "institution": "Kishoregonj M.L Model High School"
-      },
-      {
-        "year": "2015",
-        "degree": "Junior School Certificate",
-        "institution": "Uttor Durakuti High School"
-      }
-    ],
-    "expertise": [
-      "UI/UX",
-      "Visual Design",
-      "Wireframes",
-      "Storyboards",
-      "User Flows"
-    ],
-    "languages": [
-      { "name": "English", "proficiency": 90 },
-      { "name": "Bangla", "proficiency": 96 },
-      { "name": "Hindi", "proficiency": 40 }
-    ],
-    "aboutMe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam laboriosam aspernatur minima voluptatum? Hic quod dolore harum doloremque culpa ullam velit molestiae consequatur deserunt repellendus nam temporibus error provident earum corrupti est voluptatem ut iusto, voluptatum, ipsam voluptatibus perspiciatis accusantium!",
-    "experiences": [
-      {
-        "year": "2019-2022",
-        "company": "Company name",
-        "location": "123 Anywhere, City Name",
-        "position": "Job Position Here",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit..."
-      },
-      {
-        "year": "2017-2019",
-        "company": "Company name",
-        "location": "123 Anywhere, City Name",
-        "position": "Job Position Here",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit..."
-      },
-      {
-        "year": "2015-2017",
-        "company": "Company name",
-        "location": "123 Anywhere, City Name",
-        "position": "Job Position Here",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit..."
-      }
-    ],
-    "references": [
-      {
-        "name": "Name Surname",
-        "position": "Job Position, Company Name",
-        "phone": "123-456-789",
-        "email": "hello@companyname.com"
-      },
-      {
-        "name": "Name Surname",
-        "position": "Job Position, Company Name",
-        "phone": "123-456-789",
-        "email": "hello@companyname.com"
-      }
-    ]
-  }
-  
+    {
+      "year": "Febuary 2023 - August 2023",
+      "company": "FPT Software Company",
+      "location": "Ho Chi Minh",
+      "position": "Dotnet Fresher",
+      "description": [
+        "Practice and research in depth about C# and .NET framework.",
+        "Adapt at the software development process and project execution for fresher management system.",
+        "Be training strong soft skills, including effective presentation and English."
+      ]
+    },
+    {
+      "year": "November 2022 - December 2022",
+      "company": "Ho Chi Minh City University of Technology - HUTECH",
+      "location": "Ho Chi Minh",
+      "position": "Teaching Assistant",
+      "description": [
+        "Taught freshman students about programming basics and techniques in C/C++ programming"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "year": "Nov 2022 - Dec 2022",
+      "name": "Nobita app - Fast Money Transfer App",
+      "school": "Ho Chi Minh City University of Technology - HUTECH",
+      "position": "Back end developer",
+      "description": [
+        "- Fast money transfer app that integrates online lucky money service and increases security by block chain. The app implement all api provided by HDBank",
+        "- Nobita use flutter to build app, back-end is .net core and sql server, this project won first prize HDBank hackthon competition"
+      ]
+    },
+    {
+      "year": "Aug 2022 - Nov 2022 ",
+      "name": "Owl trust - Fake news filter",
+      "school": "Ho Chi Minh City University of Technology - HUTECH",
+      "position": "Back end developer",
+      "description": [
+        "- Reading news app help user access reliable news. Reliability is based on belief points and calculated by Majority Decision algorithm",
+        "- Owl trust use flutter to build app, back-end is .net core and sql server"
+      ]
+    }
+  ],
+  "achievement": [
+    "- Top 3 GPA in K20 HUTECH Talent Scholarship in 2020",
+    "- Top 1 GPA in K20 HUTECH Talent Scholarship  in 2021",
+    "- First prizes HDBank hackathon competition",
+    "- First prize in It got talent contest at Hutech University"
+  ]
+}
