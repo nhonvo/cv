@@ -4,18 +4,21 @@
     "title": "Software Developer",
     "phone": "+84 xxx-xxx-xxx",
     "email": "vothuongtruongnhon2002@gmail.com",
-    "address": "Ho Chi Minh City, Vietnam"
+    "address": "Ho Chi Minh City, Vietnam",
+    "portfolio": "https://nhonvo.github.io/profile/",
+    "linkedin": "https://www.linkedin.com/in/truongnhon/",
+    "github": "https://github.com/nhonvo"
   },
   "education": {
     "year": "2020 - 2024",
     "degree": "Software Engineering",
-    "institution": "Ho Chi Minh City University of Technology - HUTECH"
+    "institution": "Ho Chi Minh City University of Technology - HUTECH",
+    "gpa": "3.76"
   },
   "expertise": [
-    "C#",
-    "SQL Server, PostgreSQL, MongoDB",
-    "JavaScript, ReactJS",
-    "AWS"
+    "C#, Js",
+    ".NET Core, ASP.NET MVC, Docker, AWS, ReactJs",
+    "Postgres, SQL Server, MongoDB"
   ],
   "languages": { "name": "English", "proficiency": 90 },
   "aboutMe": "I love making cool apps for myself and others. I m also a big fan of football, especially Manchester United, and I enjoy watching anime like One Piece. I m a creative person who enjoys both tech and fun hobbies.",
@@ -26,9 +29,14 @@
       "location": "Ho Chi Minh",
       "position": "Software developer",
       "description": [
-        "- Developed a logistics system featuring a specialized quoting app for a US client. Collaborated with customers and analysts to plan and implement new features.",
-        "- Built a microservices architecture using C#, .NET Core, PostgreSQL, DynamoDB, SNS, SQS, GraphQL, Hangfire, Splunk, and New Relic. Followed Gitflow for code management and hosted the system on AWS.",
-        "- Implemented Agile methodology and utilized Rally for effective project management."
+        "Consumer API ",
+        "• Developed the Consumer API to manage notifications and schedule vehicle shipments, integrating with the logistic system using the sidecar pattern.",
+        "• Designed and implemented an event-driven application with C# and .NET Core, using DynamoDB for fast and efficient data storage. Configured Docker with local stack for local development, building custom service test templates to test the event application.",
+        "• Utilized Amazon SQS and SNS to enhance messaging reliability, reducing transaction failures by 40%.",
+        "Quoting API",
+        "• The Quoting API estimates vehicle shipping costs for customers, providing a reference price before booking.",
+        "• Maintained and enhanced existing codebase, designing and implementing RESTful APIs in C# and .NET Core with PostgreSQL. Hosted the application using AWS resources. Participated in code reviews and created comprehensive documentation to ensure code quality and knowledge sharing.",
+        "• Improved API response times by 30% through the implementation of Redis caching."
       ]
     },
     {
@@ -37,9 +45,9 @@
       "location": "Ho Chi Minh",
       "position": "Dotnet Fresher",
       "description": [
-        "Practice and research in depth about C# and .NET framework.",
-        "Adapt at the software development process and project execution for fresher management system.",
-        "Be training strong soft skills, including effective presentation and English."
+        "• Conducted in-depth research and practice on C# and the .NET framework, adapting to the software development process.",
+        "• Executed projects within the FPT Fresher Management System, a web application designed to manage fresher training. Led a team of 5 fresher students, delegated tasks and contributed to designing the database and backend using the CQRS pattern for efficient development. Conducted research and hosted the application on Azure resources.",
+        "• Graduated in the top 2% of the .NET fresher program, showcasing exceptional technical and soft skills."
       ]
     },
     {
@@ -48,7 +56,7 @@
       "location": "Ho Chi Minh",
       "position": "Teaching Assistant",
       "description": [
-        "Taught freshman students about programming basics and techniques in C/C++ programming"
+        "Taught freshman students the fundamentals of programming and advanced programming techniques using C/C++. Prepared exercises, reviewed student knowledge, and collaborated closely with the main instructor."
       ]
     }
   ],
